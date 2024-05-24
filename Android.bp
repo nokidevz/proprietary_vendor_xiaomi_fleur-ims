@@ -50,9 +50,9 @@ dex_import {
 }
 
 dex_import {
-	name: "mediatek-servies",
+	name: "mediatek-services",
 	owner: "xiaomi",
-	jars: ["proprietary/framework/mediatek-servies.jar"],
+	jars: ["proprietary/framework/mediatek-services.jar"],
 }
 
 dex_import {
